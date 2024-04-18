@@ -1,0 +1,23 @@
+.add-user{
+    text-align: center;
+}
+.form-sec{
+    text-transform: capitalize;
+}
+
+.text-area{
+    cursor: pointer;
+   
+}
+.contact label{
+    margin-top: 50px;
+}
+
+/* modalcomponent css start */
+.modal-header{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 10px;
+    margin-top: 50px;
+}
+/* modalcomponent css end */

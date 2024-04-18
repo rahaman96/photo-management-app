@@ -1,7 +1,43 @@
+
+body {
+  /* overflow-x: hidden !important; */
+  /* overflow-y: hidden; */
+}
 .App {
   text-align: center;
+
 }
 
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+}
+/* 
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.content {
+  padding-top: 50px; 
+  overflow-y: auto; 
+  height: 80vh;
+} */
+/* 
+
+@media only screen and (max-width: 767px) {
+  .App{
+      overflow-x: hidden !important;
+  }
+ 
+} */
 .App-logo {
   height: 40vmin;
   pointer-events: none;
